@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moon9t</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate AI & Backend developer and Cyber Security Enthusiastic from South Africa</h3>
 
 - 🔭 I’m currently working on [CodSoft](github.com/Moon9t/CodSoft)
 
