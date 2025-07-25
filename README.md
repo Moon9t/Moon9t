@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moon9t</h1>
 <h3 align="center">A passionate AI & Backend developer and Cyber Security Enthusiastic from South Africa</h3>
 
-- 🔭 I’m currently working on [CodSoft](github.com/Moon9t/CodSoft)
+- 🔭 I’m currently working on [Umbra](github.com/eclipse-softworks/Umbra)
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [svcmgr](github.com/Moon9t/svcmgr)
+- 👯 I’m looking to collaborate on [domainhive-framework](github.com/eclipse-softworks/domainhive)
 
 - 🤝 I’m looking for help with [Victor](github.com/Moon9t/victor)
 
