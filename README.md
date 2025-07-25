@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [domainhive-framework](github.com/eclipse-softworks/domainhive)
+- 👯 I’m looking to collaborate on [domainhive-framework](github.com/eclipsesoftworks/domainhive)
 
 - 🤝 I’m looking for help with [Victor](github.com/Moon9t/victor)
 
