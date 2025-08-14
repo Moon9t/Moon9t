@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDA5&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Moon9t;AI+%26+Backend+Developer;Cyber+Security+Enthusiast;Open+Source+Lover+from+South+Africa" alt="Typing SVG" />
 </p>
 
-<!-- Main Banner or GIF -->
+<!-- Internet Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moon9t/Moon9t/main/banner.gif" alt="Moon9t Banner" width="80%" />
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1400&q=80" alt="Banner" width="80%" style="border-radius:18px;" />
 </p>
 
 <!-- Visitor Counter -->
