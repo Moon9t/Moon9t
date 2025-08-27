@@ -55,8 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moon9t&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight" height="165" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moon9t&theme=tokyo-night&bg_color=22272e&hide_border=true" />
+ src="https://github-readme-activity-graph.vercel.app/graph?username=Moon9t&theme=tokyo-night&bg_color=22272e&hide_border=true" />
 </p>
 
 <p align="center">
