@@ -13,23 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=Moon9t&label=Profile+Views&color=38BDA5&style=flat" alt="profile views"/>
 </p>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Moon9t/Moon9t/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 
-<!-- GitHub Extra Pins -->
-<p align="center">
-  <a href="https://github.com/eclipse-softworks/Umbra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eclipse-softworks&repo=Umbra&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/eclipsesoftworks/domainhive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eclipsesoftworks&repo=domainhive&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Moon9t/victor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moon9t&repo=victor&theme=tokyonight" />
-  </a>
-</p>
+<
 
 ---
 
