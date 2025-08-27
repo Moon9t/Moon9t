@@ -14,8 +14,6 @@
 </p>
 
 
-<
-
 ---
 
 <h3 align="center">A passionate AI & Backend developer and Cyber Security Enthusiast from South Africa 🇿🇦</h3>
