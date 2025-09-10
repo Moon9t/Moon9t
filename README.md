@@ -1,60 +1,49 @@
-<!-- Animated Typing Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDA5&width=600&lines=Hi+👋,+I'm+Moon9t;AI+%26+Backend+Developer;Cyber+Security+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://i.imgur.com/N9zv3c2.gif" alt="anime banner" width="100%" />
 </p>
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80" alt="Banner" width="80%" style="border-radius:18px;" />
-</p>
-
----
-
-<h3 align="center">⚡ AI & Backend Developer | Cyber Security Enthusiast | Open Source Dev</h3>
-
----
-
-### 🚀 Dev Progress  
+# 🌑 Moon9t
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://progress-bar.dev/70/?title=Dev+Rank:+B+→+Senior&width=420&color=38BDA5&suffix=%" alt="Progress" />
+  <b>Second-year Physics & Computer Science student | Developer | Cybersecurity Enthusiast</b>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🧑‍💻 About Me
+- ⚡ Building **Eclipse Softworks** from the ground up.  
+- 📚 Exploring **AI, security, and software development**.  
+- 🌍 Based in **South Africa**.  
+- 🎯 Always pushing boundaries and breaking limits.  
 
+---
+
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,postgres,mysql,mongodb,aws,docker,linux,pytorch,tf" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,react,html,css,mysql,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-
+## 📊 Skill Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moon9t&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon9t&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="./skill-graph.svg" alt="Skill Radar Graph" width="500px"/>
 </p>
 
 ---
 
-### ✨ Contribution Graph  
-
+## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moon9t&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moon9t&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-### 🎭 Fun Zone  
+## 🌌 Fun Zone
+<p align="center">
+  <img src="https://i.imgur.com/fd8xgT0.gif" width="60%" alt="anime coding gif"/>
+</p>
 
-- 🧠 “Stay curious, stay hacking.”  
-- ☕ Coffee is my compiler booster  
-- 🎮 Gaming + reverse engineering is my free time combo  
-
----
+<p align="center">“Nothing but my brain as weapon.” 🧠⚔️</p>
