@@ -20,17 +20,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDA5" alt="GitHub Streak" height="120"/>
 </p>
 
-<p align="center">
-  <!-- Row 3: Total Commits -->
-  <img src="https://img.shields.io/github/commit-activity/m/Moon9t?color=38BDA5&style=for-the-badge" alt="Total Commits" />
-</p>
-
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,rust,go,html,css,mongodb,postgresql,mysql,pytorch,tensorflow,scikitlearn,seaborn,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,rust,go,html,css,mongodb,postgresql,mysql,pytorch,tensorflow,scikitlearn,docker,kubernetes" />
 </p>
 
 ---
