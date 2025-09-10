@@ -11,11 +11,12 @@
 
 ## 🚀 Dev Progress & Rank
 <p align="center">
-  <img src="https://progress-bar.dev/70/?title=Dev+Rank:+B+→+Senior&width=420&color=38BDA5&suffix=%" alt="Dev Progress" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight&hide_border=true" height="150"/>
+  <!-- Dev Rank Badge -->
+  <img src="https://img.shields.io/badge/Dev%20Rank-B--Junior--→--Senior-38BDA5?style=for-the-badge&logo=github" alt="Dev Rank"/>
+  <!-- GitHub Streak Badge -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="120"/>
+  <!-- Total Commits Badge -->
+  <img src="https://img.shields.io/github/commit-activity/m/Moon9t?color=38BDA5&style=for-the-badge" alt="Total Commits"/>
 </p>
 
 ---
@@ -37,7 +38,7 @@
 
 ## 📅 GitHub Contributions
 <p align="center">
-  <img src="https://github.com/Moon9t.png?tab=overview&theme=tokyonight" alt="GitHub Contributions" width="90%" />
+  <img src="https://ghchart.rshah.org/38BDA5/Moon9t" alt="GitHub Contributions" width="90%" />
 </p>
 
 ---
