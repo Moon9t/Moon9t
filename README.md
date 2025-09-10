@@ -11,8 +11,16 @@
 
 ---
 
-## 🚀 Dev Progress
+## 🧑‍💻 About Me
+- ⚡ Founder of **Eclipse Softworks**  
+- 📚 Passionate about **AI, Backend, and Cybersecurity**  
+- 🌍 Based in **South Africa**  
+- 🎯 Always pushing boundaries and breaking limits  
+- 💬 Ask me about **Python, JS, Rust, AI, ML, and DevOps**  
 
+---
+
+## 🚀 Dev Progress & Rank
 <p align="center">
   <img src="https://progress-bar.dev/70/?title=Dev+Rank:+B+→+Senior&width=420&color=38BDA5&suffix=%" alt="Dev Progress" />
 </p>
@@ -30,16 +38,41 @@
 
 ---
 
-## 📊 Skill Radar
+## 🌐 Skill Graph
 <p align="center">
   <img src="https://quickchart.io/chart?c={
-  type:'radar',
-  data:{
-    labels:['Python','JavaScript','C++','Rust','Go','HTML','CSS','MongoDB','PostgreSQL','MySQL','PyTorch','TensorFlow','Scikit-learn','Seaborn','Docker','Kubernetes'],
-    datasets:[{label:'Skill Level',data:[9,8,7,6,6,9,9,7,7,7,8,7,8,7,6,5],backgroundColor:'rgba(56,189,165,0.2)',borderColor:'#38BDA5',pointBackgroundColor:'#38BDA5'}]
-  },
-  options:{scales:{r:{angleLines:{color:'#333'},grid:{color:'#444'},pointLabels:{color:'#38BDA5'},ticks:{backdropColor:'transparent',color:'#38BDA5'}}},plugins:{legend:{labels:{color:'#38BDA5'}}}}
-}" width="500"/>
+    type:'radar',
+    data:{
+      labels:['Python','JavaScript','C++','Rust','Go','HTML','CSS','MongoDB','PostgreSQL','MySQL','PyTorch','TensorFlow','Scikit-learn','Seaborn','Docker','Kubernetes'],
+      datasets:[{
+        label:'Skill Level',
+        data:[9,8,7,6,6,9,9,7,7,7,8,7,8,7,6,5],
+        backgroundColor:'rgba(56,189,165,0.2)',
+        borderColor:'#38BDA5',
+        borderWidth:2,
+        pointBackgroundColor:'#38BDA5',
+        pointBorderColor:'#fff',
+        pointRadius:5
+      }]
+    },
+    options:{
+      scales:{
+        r:{
+          angleLines:{color:'#444'},
+          grid:{color:'#222'},
+          pointLabels:{color:'#38BDA5',font:{size:14}},
+          ticks:{beginAtZero:true,max:10,stepSize:2,color:'#38BDA5'}
+        }
+      },
+      plugins:{
+        legend:{display:false},
+        tooltip:{enabled:true,bodyColor:'#38BDA5',titleColor:'#fff'}
+      },
+      elements:{
+        line:{tension:0.3}
+      }
+    }
+  }" width="80%" />
 </p>
 
 ---
