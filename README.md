@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-scenery.gif" alt="anime banner" width="100%" />
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-scenery.gif" alt="anime banner" width="80%" />
 </p>
 
 # 🌑 Moon9t
@@ -21,14 +21,14 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,react,html,css,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,rust,go,html,css,mongodb,postgresql,mysql,docker,kubernetes" />
 </p>
 
 ---
 
 ## 📊 Skill Radar
 <p align="center">
-  <img src="./skill-radar.svg" alt="Skill Radar Graph" width="500px"/>
+  <img src="./skill-radar.svg" alt="Skill Radar Graph" width="400px"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ## 🌌 Fun Zone
 <p align="center">
-  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAC/anime-hacking.gif" width="60%" alt="anime coding gif"/>
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAC/anime-hacking.gif" width="40%" alt="anime coding gif"/>
 </p>
 
 <p align="center">“Nothing but my brain as weapon.” 🧠⚔️</p>
