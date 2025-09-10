@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/N9zv3c2.gif" alt="anime banner" width="100%" />
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-scenery.gif" alt="anime banner" width="100%" />
 </p>
 
 # 🌑 Moon9t
@@ -26,9 +26,9 @@
 
 ---
 
-## 📊 Skill Graph
+## 📊 Skill Radar
 <p align="center">
-  <img src="./skill-graph.svg" alt="Skill Radar Graph" width="500px"/>
+  <img src="./skill-radar.svg" alt="Skill Radar Graph" width="500px"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ## 🌌 Fun Zone
 <p align="center">
-  <img src="https://i.imgur.com/fd8xgT0.gif" width="60%" alt="anime coding gif"/>
+  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAC/anime-hacking.gif" width="60%" alt="anime coding gif"/>
 </p>
 
 <p align="center">“Nothing but my brain as weapon.” 🧠⚔️</p>
