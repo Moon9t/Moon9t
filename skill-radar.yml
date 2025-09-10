@@ -1,32 +1,82 @@
-name: Update Skill Radar
+name: Generate Skill Radar
 
 on:
+  push:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0"   # runs every Sunday at midnight
-  workflow_dispatch:      # allows manual trigger
+    - cron: "0 0 * * 0" # weekly
 
 jobs:
-  update-radar:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          python-version: "3.x"
+          node-version: 18
 
-      - name: Install dependencies
-        run: pip install requests pyyaml
-
-      - name: Generate skill data
-        run: python scripts/skill_radar.py
-
-      - name: Commit and push changes
+      - name: Install Chart.js & canvas
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: update skill radar"
+          npm init -y
+          npm install chart.js canvas
+
+      - name: Generate Radar Chart
+        run: |
+          node <<'EOF'
+          const { ChartJSNodeCanvas } = require('chartjs-node-canvas');
+          const fs = require('fs');
+
+          const width = 600, height = 600;
+          const chartJSNodeCanvas = new ChartJSNodeCanvas({ width, height });
+
+          const config = {
+            type: 'radar',
+            data: {
+              labels: [
+                'Python','JavaScript','C++','Rust','Go',
+                'HTML','CSS','MongoDB','PostgreSQL','MySQL',
+                'PyTorch','TensorFlow','Scikit-learn','Seaborn',
+                'Docker','Kubernetes'
+              ],
+              datasets: [{
+                label: 'Skill Level',
+                data: [9,8,7,6,6,9,9,7,7,7,8,7,8,7,6,5], // adjust 1–10
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderColor: 'rgba(54, 162, 235, 1)',
+                pointBackgroundColor: 'rgba(54, 162, 235, 1)',
+              }]
+            },
+            options: {
+              scales: {
+                r: {
+                  angleLines: { color: '#444' },
+                  grid: { color: '#666' },
+                  pointLabels: { color: '#fff' },
+                  ticks: { color: '#fff', backdropColor: 'transparent' }
+                }
+              },
+              plugins: { legend: { labels: { color: '#fff' } } }
+            }
+          };
+
+          (async () => {
+            const buffer = await chartJSNodeCanvas.renderToBuffer(config);
+            fs.writeFileSync('skill-radar.png', buffer);
+          })();
+          EOF
+
+      - name: Convert PNG to SVG
+        run: |
+          sudo apt-get update && sudo apt-get install -y imagemagick potrace
+          convert skill-radar.png ppm:- | potrace -s -o skill-radar.svg
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add skill-radar.svg
+          git commit -m "update skill radar"
           git push
