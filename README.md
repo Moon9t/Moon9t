@@ -5,19 +5,26 @@
 - 📚 Passionate about **AI, Backend, and Cybersecurity**  
 - 🌍 Based in **South Africa**  
 - 🎯 Always pushing boundaries and breaking limits  
-- 💬 Ask me about **Python, JS, Rust, AI, ML, and DevOps**  
+- 💬 Ask me about **Backend & AI/ML Systems**  
 
 ---
 
 ## 🚀 Developer Dashboard
 <p align="center">
-  <!-- Dev Rank -->
+  <!-- Row 1: Rank -->
   <img src="https://img.shields.io/badge/Dev%20Rank-B--Junior--→--Senior-38BDA5?style=for-the-badge&logo=github" alt="Dev Rank" />
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDA5" alt="GitHub Streak" height="100"/>
-  <!-- Total Contributions -->
+</p>
+
+<p align="center">
+  <!-- Row 2: GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDA5" alt="GitHub Streak" height="120"/>
+</p>
+
+<p align="center">
+  <!-- Row 3: Total Commits -->
   <img src="https://img.shields.io/github/commit-activity/m/Moon9t?color=38BDA5&style=for-the-badge" alt="Total Commits" />
 </p>
+
 
 ---
 
