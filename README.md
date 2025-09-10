@@ -9,14 +9,14 @@
 
 ---
 
-## 🚀 Dev Progress & Rank
+## 🚀 Developer Dashboard
 <p align="center">
-  <!-- Dev Rank Badge -->
-  <img src="https://img.shields.io/badge/Dev%20Rank-B--Junior--→--Senior-38BDA5?style=for-the-badge&logo=github" alt="Dev Rank"/>
-  <!-- GitHub Streak Badge -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="120"/>
-  <!-- Total Commits Badge -->
-  <img src="https://img.shields.io/github/commit-activity/m/Moon9t?color=38BDA5&style=for-the-badge" alt="Total Commits"/>
+  <!-- Dev Rank -->
+  <img src="https://img.shields.io/badge/Dev%20Rank-B--Junior--→--Senior-38BDA5?style=for-the-badge&logo=github" alt="Dev Rank" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDA5" alt="GitHub Streak" height="100"/>
+  <!-- Total Contributions -->
+  <img src="https://img.shields.io/github/commit-activity/m/Moon9t?color=38BDA5&style=for-the-badge" alt="Total Commits" />
 </p>
 
 ---
