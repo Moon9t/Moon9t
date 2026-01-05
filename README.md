@@ -6,12 +6,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDA5&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Founder+%40+Eclipse+Softworks;Building+the+Future+with+Code;%22Nothing+but+my+brain+as+weapon%22)](https://github.com/Moon9t)
 
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Moon9t&theme=transparent&hide_border=true&background=0d1117&stroke=38BDA5&ring=38BDA5&fire=ff6b35&currStreakLabel=38BDA5&sideLabels=c9d1d9&dates=6e7681&currStreakNum=38BDA5&sideNums=38BDA5)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=transparent&hide_border=true&background=0d1117&stroke=38BDA5&ring=38BDA5&fire=ff6b35&currStreakLabel=38BDA5&sideLabels=c9d1d9&dates=6e7681" height="150"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon9t&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38BDA5&text_color=c9d1d9&langs_count=6" height="150"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon9t&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38BDA5&text_color=c9d1d9&langs_count=6" height="220"/>
 
 ### About
 
