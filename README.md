@@ -10,7 +10,8 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon9t&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38BDA5&text_color=c9d1d9&langs_count=8" height="180"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=transparent&hide_border=true&background=0d1117&stroke=38BDA5&ring=38BDA5&fire=ff6b35&currStreakLabel=38BDA5&sideLabels=c9d1d9&dates=6e7681" height="150"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon9t&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38BDA5&text_color=c9d1d9&langs_count=6" height="150"/>
 
 ### About
 
