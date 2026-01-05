@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon9t&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38BDA5&text_color=c9d1d9&langs_count=6" height="220"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon9t&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38BDA5&text_color=c9d1d9&langs_count=8" height="180"/>
 
 ### About
 
