@@ -48,11 +48,6 @@ open_to: Collaborations & Open Source
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moon9t&theme=transparent&hide_border=true&background=0d1117&stroke=38BDA5&ring=38BDA5&fire=ff6b35&currStreakLabel=38BDA5&sideLabels=c9d1d9&dates=6e7681" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Moon9t&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=38BDA5&icon_color=38BDA5&text_color=c9d1d9&rank_icon=github" height="180"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moon9t&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDA5&line=38BDA5&point=ffffff&area=true&area_color=38BDA5" width="95%" />
 </div>
 
