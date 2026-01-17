@@ -56,7 +56,7 @@ open_to: Collaborations & Open Source
 ### Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moon9t&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Moon9t&theme=darkhub&no-frame=true&column=7&margin-w=10" width="100%"/>
 </div>
 
 ---
