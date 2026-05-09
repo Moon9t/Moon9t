@@ -20,8 +20,8 @@
 name: Moon9t
 location: South Africa
 company: Eclipse Softworks (Founder)
-focus: [Backend Systems, AI/ML, Cybersecurity]
-currently_building: ResMate - Student Accommodation Platform
+focus: [Backend Systems, Machine Learning, Autonomous Intelligent Systems]
+currently_building: IRIS 
 open_to: Collaborations & Open Source
 ```
 
