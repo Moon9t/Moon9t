@@ -2,7 +2,7 @@
 
 # Moon9t
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38BDA5&height=200&section=header&text=Moon9t&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20|%20Cybersecurity&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:38BDA5&height=200&section=header&text=Moon9t&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Machine%20Learning%20|%20Autonomous%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDA5&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Founder+%40+Eclipse+Softworks;Building+the+Future+with+Code;%22Nothing+but+my+brain+as+a+weapon%22)](https://github.com/Moon9t)
 
