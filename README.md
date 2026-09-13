@@ -8,17 +8,13 @@
 
 </div>
 
-```zsh
-╭─  moon9t@eclipse  ~/iris  ‹main›
-╰─❯ whoami
-      Backend engineer · ML · Autonomous systems
-╭─  moon9t@eclipse  ~/iris  ‹main›
-╰─❯ cat stack.txt
-      Go · Python · TypeScript · Rust · C++
-╭─  moon9t@eclipse  ~/iris  ‹main›
-╰─❯ ./iris --status
-      [■■■■■■□□□□] 62% — building
-```
+---
+
+<div align="center">
+
+<img src="./assets/terminal.svg" width="100%" alt="terminal session" />
+
+</div>
 
 ---
 
@@ -31,14 +27,6 @@
 ### ⌘ Stack
 
 <img src="https://skillicons.dev/icons?i=go,py,ts,rust,cpp,graphql,fastapi,nodejs,postgres,redis,react,nextjs,tailwind,pytorch,tensorflow,docker,kubernetes,aws,git,linux&theme=dark&perline=10" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moon9t&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDA5&line=38BDA5&point=ffffff&area=true&area_color=38BDA5" width="100%"/>
 
 </div>
 
