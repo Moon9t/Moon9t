@@ -8,13 +8,17 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="./assets/terminal.svg" width="100%" alt="terminal session" />
-
-</div>
+```zsh
+╭─  moon9t@eclipse  ~/iris  ‹main›
+╰─❯ whoami
+      Backend engineer · ML · Autonomous systems
+╭─  moon9t@eclipse  ~/iris  ‹main›
+╰─❯ cat stack.txt
+      Go · Python · TypeScript · Rust · C++
+╭─  moon9t@eclipse  ~/iris  ‹main›
+╰─❯ ./iris --status
+      [■■■■■■□□□□] 62% — building
+```
 
 ---
 
