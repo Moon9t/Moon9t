@@ -8,13 +8,16 @@
 
 </div>
 
-```bash
-moon9t@eclipse:~$ whoami
-  → Backend engineer · ML · Autonomous systems
-moon9t@eclipse:~$ cat stack.txt
-  → Go · Python · TypeScript · Rust · C++
-moon9t@eclipse:~$ ./iris --status
-  → [■■■■■■□□□□] 62% — building
+```zsh
+╭─  moon9t@eclipse  ~/iris  ‹main›
+╰─❯ whoami
+      Backend engineer · ML · Autonomous systems
+╭─  moon9t@eclipse  ~/iris  ‹main›
+╰─❯ cat stack.txt
+      Go · Python · TypeScript · Rust · C++
+╭─  moon9t@eclipse  ~/iris  ‹main›
+╰─❯ ./iris --status
+      [■■■■■■□□□□] 62% — building
 ```
 
 ---
@@ -35,7 +38,7 @@ moon9t@eclipse:~$ ./iris --status
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Moon9t&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDA5&icon_color=38BDA5&text_color=c9d1d9&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moon9t&layout=compact&hide_border=true&bg_color=0d1117&title_color=38BDA5&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moon9t&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDA5&line=38BDA5&point=ffffff&area=true&area_color=38BDA5" width="100%"/>
 
 </div>
 
